@@ -1,0 +1,28 @@
+{
+    "name": "Get Outside!",
+    "short_name": "GetOutside!",
+    "start_url": "",
+    "display": "standalone",
+    "background_color": "#66ed8a",
+    "theme_color": "#36ad56",
+    "description": "Computer Science 12 Project, tool for finding local parks",
+    "icons": [
+      {
+        "src": "pine-tree.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "pine-tree.ico",
+        "sizes": "256x256",
+        "type": "image/ico"
+      }
+    ],
+    "related_applications": [
+      {
+        "platform": "play",
+        "url": ""
+      }
+    ]
+  }
